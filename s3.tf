@@ -1,5 +1,5 @@
 resource "aws_s3_bucket" "one" {
-  bucket = "ashrithap.kops.lmf"
+  bucket = "ashup.kops.lmf"
 }
 
 resource "aws_s3_bucket_ownership_controls" "two" {
